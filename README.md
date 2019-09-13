@@ -1,2 +1,2 @@
 # Pogetti_Arduino
-Progetti con arduino basici
+Progetti con arduino basici, con lo scopo di esercizio e apprendimento.
